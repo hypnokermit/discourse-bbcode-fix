@@ -1,4 +1,5 @@
 function fix(text) {
+  console.log("fix running");
   return text.replace(/\[font=(\w+\s\w+)\]/gi, "[font='$1']");
 }
 
