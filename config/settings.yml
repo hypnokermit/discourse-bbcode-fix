@@ -1,4 +1,0 @@
-plugins:
-  bbcodefix_enabled:
-    default: true
-    client: true
